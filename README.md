@@ -18,3 +18,5 @@ The default is to cycle through each of the animation patterns, allowing each on
 Pattern Selection | Color Picker
 ---|---
 <img src="images/PatternSelect.png" width="50%"> | <img src="images/ColorPicker.png" width="50%">
+
+I'm not a UX or HTML developer, so the user interface is not all that fancy (but I welcome any UX / HTML / CSS gurus out there to help improve it).
