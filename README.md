@@ -1,7 +1,6 @@
-# Tiara
-Neopixel Tiara w/WiFi Control UI
+# Neopixel Tiara w/WiFi Control UI
 
-<img src="TiaraCaptivePortal/data/TiaraBanner-sm.jpg">
+<img src="images/IMG_20210103_2029514.jpg" width="80%">
 
 This project was inspired by [Becky Stern's](https://beckystern.com/) [NeoPixel Tiara](https://learn.adafruit.com/neopixel-tiara), with some changes to the hardware.
 The control board is an ESP8266 [D1 Mini](https://www.wemos.cc/en/latest/d1/d1_mini.html) combined with a [Battery Shield](https://www.wemos.cc/en/latest/d1_mini_shield/battery.html).  Software was written using the Arduino IDE.
